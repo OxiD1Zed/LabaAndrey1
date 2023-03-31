@@ -1,0 +1,8 @@
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\bin\Debug\1лабаАндрей.exe.config
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\bin\Debug\1лабаАндрей.exe
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\bin\Debug\1лабаАндрей.pdb
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\obj\Debug\1лабаАндрей.csproj.AssemblyReference.cache
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\obj\Debug\1лабаАндрей.csproj.SuggestedBindingRedirects.cache
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\obj\Debug\1лабаАндрей.csproj.CoreCompileInputs.cache
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\obj\Debug\1лабаАндрей.exe
+C:\Users\Макс\Desktop\Проекты\1лабаАндрей\1лабаАндрей\obj\Debug\1лабаАндрей.pdb
